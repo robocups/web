@@ -69,3 +69,24 @@ package-lock.json
 schema.graphql
 persisted_queries.json
 **/*.graphql.ts
+
+# Env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# GraphQL
+schema.graphql
+persisted_queries.json
+**/*.graphql.ts
+# Env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# GraphQL
+schema.graphql
+persisted_queries.json
+**/*.graphql.ts
